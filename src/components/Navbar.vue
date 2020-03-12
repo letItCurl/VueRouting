@@ -56,4 +56,7 @@ export default {
         display: inline-block;
         margin: 10px;
     }
+    a.router-link-exact-active.router-link-active{
+        color: coral;
+    }
 </style>
